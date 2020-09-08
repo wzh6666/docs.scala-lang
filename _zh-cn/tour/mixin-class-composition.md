@@ -58,7 +58,7 @@ class StringIterator(s: String) extends AbsIterator {
   }
 }
 ```
-
+11111111111
 `StringIterator`带有一个`String`类型参数的构造器，可用于对字符串进行迭代。（例如查看一个字符串是否包含某个字符）：
 
 现在我们创建一个特质，也继承于`AbsIterator`。
